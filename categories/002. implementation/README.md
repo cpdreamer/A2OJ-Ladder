@@ -42,7 +42,7 @@
 |<ul><li>- [ ] Done</li></ul>|37|[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|Codeforces||Codeforces Beta Round #57 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|38|[Word](http://codeforces.com/problemset/problem/59/A)|Codeforces||Codeforces Beta Round #55 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|39|[Translation](http://codeforces.com/problemset/problem/41/A)|Codeforces||Codeforces Beta Round #40 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|40|[Army](http://codeforces.com/problemset/problem/38/A)|Codeforces||School Personal Contest #1 (Winter Computer School 2010/11) - Codeforces Beta Round #38 (ACM-ICPC Rules)|1|
+|<ul><li>- [x] Done</li></ul>|40|[Army](http://codeforces.com/problemset/problem/38/A)|Codeforces||School Personal Contest #1 (Winter Computer School 2010/11) - Codeforces Beta Round #38 (ACM-ICPC Rules)|1|
 |<ul><li>- [ ] Done</li></ul>|41|[Reconnaissance 2](http://codeforces.com/problemset/problem/34/A)|Codeforces||Codeforces Beta Round #34 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|42|[Borze](http://codeforces.com/problemset/problem/32/B)|Codeforces||Codeforces Beta Round #32 (Div. 2, Codeforces format)|1|
 |<ul><li>- [ ] Done</li></ul>|43|[Registration System](http://codeforces.com/problemset/problem/4/C)|Codeforces||Codeforces Beta Round #4 (Div. 2 Only)|1|
