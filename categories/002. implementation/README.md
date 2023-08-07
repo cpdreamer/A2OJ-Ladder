@@ -4,20 +4,20 @@
 | Checkbox | ID | Problem Name|Online Judge|Year|Contest|Difficulty Level|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<ul><li>- [x] Done</li></ul>|1|[Greg's Workout](http://codeforces.com/problemset/problem/255/A)|Codeforces||Codeforces Round #156 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|2|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces||Codeforces Round #147 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|3|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces||Codeforces Round #146 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|2|[Free Cash](http://codeforces.com/problemset/problem/237/A)|Codeforces||Codeforces Round #147 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|3|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces||Codeforces Round #146 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|4|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces||Codeforces Round #144 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|5|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces||Codeforces Round #143 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|6|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces||Codeforces Round #142 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|7|[Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)|Codeforces||Codeforces Round #141 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|7|[Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)|Codeforces||Codeforces Round #141 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|8|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces||Codeforces Round #135 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|9|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces||Codeforces Round #130 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|10|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces||Codeforces Round #126 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|10|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces||Codeforces Round #126 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|11|[Hexadecimal's theorem](http://codeforces.com/problemset/problem/199/A)|Codeforces||Codeforces Round #125 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|12|[Supercentral Point](http://codeforces.com/problemset/problem/165/A)|Codeforces||Codeforces Round #112 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|13|[Next Round](http://codeforces.com/problemset/problem/158/A)|Codeforces||VK Cup 2012 Qualification Round 1|1|
 |<ul><li>- [ ] Done</li></ul>|14|[Marks](http://codeforces.com/problemset/problem/152/A)|Codeforces||Codeforces Round #108 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|15|[Soft Drinking](http://codeforces.com/problemset/problem/151/A)|Codeforces||Codeforces Round #107 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|15|[Soft Drinking](http://codeforces.com/problemset/problem/151/A)|Codeforces||Codeforces Round #107 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|16|[Business trip](http://codeforces.com/problemset/problem/149/A)|Codeforces||Codeforces Round #106 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|17|[Insomnia cure](http://codeforces.com/problemset/problem/148/A)|Codeforces||Codeforces Round #105 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|18|[Lucky Ticket](http://codeforces.com/problemset/problem/146/A)|Codeforces||Codeforces Round #104 (Div. 2)|1|
