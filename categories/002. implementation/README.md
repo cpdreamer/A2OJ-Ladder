@@ -59,7 +59,7 @@
 |<ul><li>- [ ] Done</li></ul>|54|[Adding Reversed Numbers](http://acm.tju.edu.cn/toj/showp2210.html)|TJU|||1|
 |<ul><li>- [ ] Done</li></ul>|55|[Area of a Circle](https://www.urionlinejudge.com.br/judge/en/problems/view/1002)|URI|||1|
 |<ul><li>- [ ] Done</li></ul>|56|[Clock Hands](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=520)|UVA|||1|
-|<ul><li>- [ ] Done</li></ul>|57|[Cheap Travel](http://codeforces.com/problemset/problem/466/A)|Codeforces||Codeforces Round #266 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|57|[Cheap Travel](http://codeforces.com/problemset/problem/466/A)|Codeforces||Codeforces Round #266 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|58|[Balloons Colors](p?ID=6)|A2 Online Judge|||1|
 |<ul><li>- [ ] Done</li></ul>|59|[Appleman and Easy Task](http://codeforces.com/problemset/problem/462/A)|Codeforces||Codeforces Round #263 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|60|[FoxAndGame](http://community.topcoder.com/stat?c=problem_statement&pm=12438)|TopCoder||SRM 571 - Div2 easy] (15491)|1|
