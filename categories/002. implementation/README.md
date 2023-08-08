@@ -24,7 +24,7 @@
 |<ul><li>- [ ] Done</li></ul>|19|[Arrival of the General](http://codeforces.com/problemset/problem/144/A)|Codeforces||Codeforces Round #103 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|20|[Amusing Joke](http://codeforces.com/problemset/problem/141/A)|Codeforces||Codeforces Round #101 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|21|[Petr and Book](http://codeforces.com/problemset/problem/139/A)|Codeforces||Codeforces Beta Round #99 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|22|[Presents](http://codeforces.com/problemset/problem/136/A)|Codeforces||Codeforces Beta Round #97 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|22|[Presents](http://codeforces.com/problemset/problem/136/A)|Codeforces||Codeforces Beta Round #97 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|23|[HQ9+](http://codeforces.com/problemset/problem/133/A)|Codeforces||Codeforces Beta Round #96 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|24|[cAPS lOCK](http://codeforces.com/problemset/problem/131/A)|Codeforces||Codeforces Beta Round #95 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|25|[Cookies](http://codeforces.com/problemset/problem/129/A)|Codeforces||Codeforces Beta Round #94 (Div. 2 Only)|1|
