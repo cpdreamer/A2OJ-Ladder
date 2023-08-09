@@ -4,7 +4,7 @@
 | Checkbox | ID | Problem Name|Online Judge|Year|Contest|Difficulty Level|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<ul><li>- [ ] Done</li></ul>|1|[ACM (ACronymMaker)](http://www.spoj.com/problems/ACMAKER/)|SPOJ|||1|
-|<ul><li>- [ ] Done</li></ul>|2|[Alphacode](http://www.spoj.com/problems/ACODE/)|SPOJ|||1|
+|<ul><li>- [x] Done</li></ul>|2|[Alphacode](http://www.spoj.com/problems/ACODE/)|SPOJ|||1|
 |<ul><li>- [ ] Done</li></ul>|3|[Assignments](http://www.spoj.com/problems/ASSIGN/)|SPOJ|||1|
 |<ul><li>- [ ] Done</li></ul>|4|[Tower of Babylon](http://www.spoj.com/problems/BABTWR/)|SPOJ|||1|
 |<ul><li>- [ ] Done</li></ul>|5|[Philosophers Stone](http://www.spoj.com/problems/BYTESM2/)|SPOJ|||1|
