@@ -3,7 +3,7 @@
 
 | Checkbox | ID | Problem Name|Online Judge|Year|Contest|Difficulty Level|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<ul><li>- [ ] Done</li></ul>|1|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces||Codeforces Round #143 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|1|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces||Codeforces Round #143 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|2|[System of Equations](http://codeforces.com/problemset/problem/214/A)|Codeforces||Codeforces Round #131 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|3|[Hexadecimal's theorem](http://codeforces.com/problemset/problem/199/A)|Codeforces||Codeforces Round #125 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|4|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces||Codeforces Round #119 (Div. 2)|1|
