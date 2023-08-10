@@ -5,13 +5,13 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<ul><li>- [x] Done</li></ul>|1|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces||Codeforces Round #143 (Div. 2)|1|
 |<ul><li>- [x] Done</li></ul>|2|[System of Equations](http://codeforces.com/problemset/problem/214/A)|Codeforces||Codeforces Round #131 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|3|[Hexadecimal's theorem](http://codeforces.com/problemset/problem/199/A)|Codeforces||Codeforces Round #125 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|4|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces||Codeforces Round #119 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|5|[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|Codeforces||Codeforces Round #109 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|6|[Lucky Division](http://codeforces.com/problemset/problem/122/A)|Codeforces||Codeforces Beta Round #91 (Div. 2 Only)|1|
-|<ul><li>- [ ] Done</li></ul>|7|[Lucky Sum of Digits](http://codeforces.com/problemset/problem/109/A)|Codeforces||Codeforces Beta Round #84 (Div. 1 Only) & Codeforces Beta Round #84 (Div. 2 Only)|1|
-|<ul><li>- [ ] Done</li></ul>|8|[IQ test](http://codeforces.com/problemset/problem/25/A)|Codeforces||Codeforces Beta Round #25 (Div. 2 Only)|1|
-|<ul><li>- [ ] Done</li></ul>|9|[Triangle](http://codeforces.com/problemset/problem/6/A)|Codeforces||Codeforces Beta Round #6 (Div. 2 Only)|1|
+|<ul><li>- [x] Done</li></ul>|3|[Hexadecimal's theorem](http://codeforces.com/problemset/problem/199/A)|Codeforces||Codeforces Round #125 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|4|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces||Codeforces Round #119 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|5|[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|Codeforces||Codeforces Round #109 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|6|[Lucky Division](http://codeforces.com/problemset/problem/122/A)|Codeforces||Codeforces Beta Round #91 (Div. 2 Only)|1|
+|<ul><li>- [x] Done</li></ul>|7|[Lucky Sum of Digits](http://codeforces.com/problemset/problem/109/A)|Codeforces||Codeforces Beta Round #84 (Div. 1 Only) & Codeforces Beta Round #84 (Div. 2 Only)|1|
+|<ul><li>- [x] Done</li></ul>|8|[IQ test](http://codeforces.com/problemset/problem/25/A)|Codeforces||Codeforces Beta Round #25 (Div. 2 Only)|1|
+|<ul><li>- [x] Done</li></ul>|9|[Triangle](http://codeforces.com/problemset/problem/6/A)|Codeforces||Codeforces Beta Round #6 (Div. 2 Only)|1|
 |<ul><li>- [ ] Done</li></ul>|10|[Candy](http://www.spoj.com/problems/SAMER08C/)|SPOJ|||1|
 |<ul><li>- [ ] Done</li></ul>|11|[Candy I](http://www.spoj.com/problems/CANDY/)|SPOJ|||1|
 |<ul><li>- [ ] Done</li></ul>|12|[Grouping Problem](http://acm.tju.edu.cn/toj/showp2821.html)|TJU|||1|
