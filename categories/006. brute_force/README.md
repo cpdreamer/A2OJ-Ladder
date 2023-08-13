@@ -16,7 +16,7 @@
 |<ul><li>- [ ] Done</li></ul>|11|[Candy I](http://www.spoj.com/problems/CANDY/)|SPOJ|||1|
 |<ul><li>- [ ] Done</li></ul>|12|[Grouping Problem](http://acm.tju.edu.cn/toj/showp2821.html)|TJU|||1|
 |<ul><li>- [ ] Done</li></ul>|13|[Play with Dates](http://www.spoj.com/problems/CODEIT03/)|SPOJ|||1|
-|<ul><li>- [ ] Done</li></ul>|14|[Pangram](http://codeforces.com/problemset/problem/520/A)|Codeforces||Codeforces Round #295 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|14|[Pangram](http://codeforces.com/problemset/problem/520/A)|Codeforces||Codeforces Round #295 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|15|[Burger Time?](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2708)|UVA|||1|
 |<ul><li>- [ ] Done</li></ul>|16|[Amr and Pins](http://codeforces.com/problemset/problem/507/B)|Codeforces||Codeforces Round #287 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|17|[Far Relative’s Birthday Cake](http://codeforces.com/problemset/problem/629/A)|Codeforces||Codeforces Round #343 (Div. 2)|1|
