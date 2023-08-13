@@ -21,7 +21,7 @@
 |<ul><li>- [ ] Done</li></ul>|16|[Amr and Pins](http://codeforces.com/problemset/problem/507/B)|Codeforces||Codeforces Round #287 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|17|[Far Relative’s Birthday Cake](http://codeforces.com/problemset/problem/629/A)|Codeforces||Codeforces Round #343 (Div. 2)|1|
 |<ul><li>- [x] Done</li></ul>|18|[Kefa and First Steps](http://codeforces.com/problemset/problem/580/A)|Codeforces||Codeforces Round #321 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|19|[Gerald's Hexagon](http://codeforces.com/problemset/problem/559/A)|Codeforces||Codeforces Round #313 (Div. 1) & Codeforces Round #313 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|19|[Gerald's Hexagon](http://codeforces.com/problemset/problem/559/A)|Codeforces||Codeforces Round #313 (Div. 1) & Codeforces Round #313 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|20|[Lala Land and Apple Trees](http://codeforces.com/problemset/problem/558/A)|Codeforces||Codeforces Round #312 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|21|[Kyoya and Photobooks](http://codeforces.com/problemset/problem/554/A)|Codeforces||Codeforces Round #309 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|22|[Divisibility by Eight](http://codeforces.com/problemset/problem/550/C)|Codeforces||Codeforces Round #306 (Div. 2)|1|
