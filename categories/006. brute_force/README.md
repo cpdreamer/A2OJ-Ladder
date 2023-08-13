@@ -19,7 +19,7 @@
 |<ul><li>- [x] Done</li></ul>|14|[Pangram](http://codeforces.com/problemset/problem/520/A)|Codeforces||Codeforces Round #295 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|15|[Burger Time?](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2708)|UVA|||1|
 |<ul><li>- [ ] Done</li></ul>|16|[Amr and Pins](http://codeforces.com/problemset/problem/507/B)|Codeforces||Codeforces Round #287 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|17|[Far Relative’s Birthday Cake](http://codeforces.com/problemset/problem/629/A)|Codeforces||Codeforces Round #343 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|17|[Far Relative’s Birthday Cake](http://codeforces.com/problemset/problem/629/A)|Codeforces||Codeforces Round #343 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|18|[Kefa and First Steps](http://codeforces.com/problemset/problem/580/A)|Codeforces||Codeforces Round #321 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|19|[Gerald's Hexagon](http://codeforces.com/problemset/problem/559/A)|Codeforces||Codeforces Round #313 (Div. 1) & Codeforces Round #313 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|20|[Lala Land and Apple Trees](http://codeforces.com/problemset/problem/558/A)|Codeforces||Codeforces Round #312 (Div. 2)|1|
